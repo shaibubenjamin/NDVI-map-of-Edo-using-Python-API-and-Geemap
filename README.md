@@ -60,13 +60,12 @@ The generated NDVI maps showcase different vegetation health across Edo State. S
 ## Technologies Used
 
 - **Python**: Core language used for data analysis and geospatial processing.
+- **Geemap**: Python package for interactive geospatial analysis and visualization with Google Earth Engine.
 - **Google Collab**: For organizing and executing code in a readable format.
 - **Google Earth Engine**: For accessing and processing satellite imagery.
-- **Geopandas**: For handling geospatial data efficiently.
-- **Matplotlib / Folium**: For data visualization of NDVI results.
-- **Shapely**: For geometric operations related to spatial data.
+
 
 ## Contributors
 
-- **Shaibu Benjamin Ojoka** - [LinkedIn](https://www.linkedin.com/in/shaibu-benjamin-ojoka/) | [Twitter](https://twitter.com/username)
+- **Shaibu Benjamin Ojoka** - [LinkedIn](https://www.linkedin.com/in/shaibu-benjamin-ojoka/) 
 
