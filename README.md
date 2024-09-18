@@ -40,7 +40,7 @@ The objective of this project is to utilize NDVI for monitoring vegetation healt
 
 ## Installation
 
-Kind follow the step by step process in the code to run similar projects
+Kind follow the step by step process in the code (.pynb file) to run similar projects
 
 ## Results
 
