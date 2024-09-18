@@ -1,6 +1,6 @@
 # NDVI-map-using-Python-API-and-Geemap
 
-![Project Banner](https://your-image-link-here.com) <!-- Optional: Add a project image or logo -->
+![NDVI-map-of-Edo-state](https://github.com/shaibubenjamin/NDVI-map-of-Edo-using-Python-API-and-Geemap/blob/388ca70dd62aa67572d286c886c859c5ca00040c/NDVI%20of%20Edo%20state.png) <!-- Optional: Add a project image or logo -->
 
 ## Overview
 
