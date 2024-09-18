@@ -25,7 +25,7 @@ The objective of this project is to utilize NDVI for monitoring vegetation healt
 ## Data Sources
 
 - **Satellite Imagery**: The primary data source for this project is satellite imagery from platforms such as [Google Earth Engine](https://earthengine.google.com/).
-- **Geospatial Boundaries**: Administrative boundary shapefiles for Edo State were obtained from reputable sources like [OpenStreetMap](https://www.openstreetmap.org/) and other publicly available geospatial datasets.
+- **Geospatial Boundaries**: Administrative boundary shapefiles for Edo State were obtained from reputable sources like [GADM](https://gadm.org/) and other publicly available geospatial datasets.
 
 ## Methodology
 
@@ -60,7 +60,7 @@ The generated NDVI maps showcase different vegetation health across Edo State. S
 ## Technologies Used
 
 - **Python**: Core language used for data analysis and geospatial processing.
-- **Jupyter Notebook**: For organizing and executing code in a readable format.
+- **Google Collab**: For organizing and executing code in a readable format.
 - **Google Earth Engine**: For accessing and processing satellite imagery.
 - **Geopandas**: For handling geospatial data efficiently.
 - **Matplotlib / Folium**: For data visualization of NDVI results.
