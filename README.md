@@ -40,18 +40,33 @@ The objective of this project is to utilize NDVI for monitoring vegetation healt
 
 ## Installation
 
-To run this project locally, ensure you have the following dependencies installed:
+Kind follow the step by step process in the code to run similar projects
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ndvi-analysis-edo-state.git
+## Results
 
-# Change directory to the project folder
-cd ndvi-analysis-edo-state
+### NDVI Maps
 
-# Create a virtual environment (optional but recommended)
-python -m venv env
-source env/bin/activate   # On Windows: `env\Scripts\activate`
+The generated NDVI maps showcase different vegetation health across Edo State. Some key findings include:
 
-# Install dependencies
-pip install -r requirements.txt
+- **High NDVI Values**: Regions with dense vegetation, including forests and farmlands, have higher NDVI values, indicating healthier vegetation.
+- **Low NDVI Values**: Urban areas and regions with less vegetation exhibit lower NDVI values, signaling reduced or stressed vegetation.
+- **Seasonal Variation**: The NDVI values also reflect seasonal changes, with greener landscapes during the wet season and lower vegetation health during the dry season.
+
+### Analysis Insights
+
+- **Agricultural Areas**: The NDVI maps help identify regions with healthy crops, which can be useful for agricultural planning.
+- **Environmental Monitoring**: Areas with declining NDVI values may require environmental protection measures, such as reforestation or sustainable farming techniques.
+
+## Technologies Used
+
+- **Python**: Core language used for data analysis and geospatial processing.
+- **Jupyter Notebook**: For organizing and executing code in a readable format.
+- **Google Earth Engine**: For accessing and processing satellite imagery.
+- **Geopandas**: For handling geospatial data efficiently.
+- **Matplotlib / Folium**: For data visualization of NDVI results.
+- **Shapely**: For geometric operations related to spatial data.
+
+## Contributors
+
+- **Shaibu Benjamin Ojoka** - [LinkedIn](https://www.linkedin.com/in/shaibu-benjamin-ojoka/) | [Twitter](https://twitter.com/username)
+
